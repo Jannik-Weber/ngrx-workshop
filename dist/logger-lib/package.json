@@ -1,0 +1,19 @@
+{
+  "name": "@my/logger-lib",
+  "version": "35.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/my-logger-lib.umd.js",
+  "module": "fesm5/my-logger-lib.js",
+  "es2015": "fesm2015/my-logger-lib.js",
+  "esm5": "esm5/my-logger-lib.js",
+  "esm2015": "esm2015/my-logger-lib.js",
+  "fesm5": "fesm5/my-logger-lib.js",
+  "fesm2015": "fesm2015/my-logger-lib.js",
+  "typings": "my-logger-lib.d.ts",
+  "metadata": "my-logger-lib.metadata.json",
+  "sideEffects": false
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"logger.config.js","sourceRoot":"ng://@my/logger-lib/","sources":["lib/logger.config.ts"],"names":[],"mappings":"AACA;IAAA;IAEA,CAAC;IAAD,mBAAC;AAAD,CAAC,AAFD,IAEC","sourcesContent":["\r\nexport abstract class LoggerConfig {\r\n    enableDebug: boolean;\r\n}"]}
